@@ -1,6 +1,6 @@
 ## Project Name: Social Media Links Card
 
-**About Project**: This is a card-based design where you can add almost all social media links that you are using.
+**About Project**: This is a card-based design where you can post your thoughts.
 
 
 ### Tools I have used
